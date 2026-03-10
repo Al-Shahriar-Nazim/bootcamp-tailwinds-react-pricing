@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "nazim",
+    "physics": 60,
+    "chemistry": 32,
+    "math": 90
+  },
+  {
+    "id": 2,
+    "name": "Jihad",
+    "physics": 90,
+    "chemistry": 92,
+    "math": 10
+  },
+  {
+    "id": 3,
+    "name": "Arman",
+    "physics": 80,
+    "chemistry": 72,
+    "math": 10
+  },
+  {
+    "id": 4,
+    "name": "rahim",
+    "physics": 70,
+    "chemistry": 92,
+    "math": 30
+  }
+]
